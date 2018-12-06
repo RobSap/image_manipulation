@@ -3,6 +3,6 @@ This repository uses GitHub Pages and Markdown files. Click [here](https://robsa
 
 
 ### Projects
-1. [Image Manipulatior](https://robsap.github.io/other/)
+1. [Image Manipulatior](https://gitlab.com/RobSap/uo_330)
 This project is an assignment for CIS 330 at the University of Oregon. It is currently set to private. Request access if you would like to see it.
 
